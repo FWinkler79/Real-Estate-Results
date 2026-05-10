@@ -1,0 +1,642 @@
+{
+  "search_criteria": {
+    "location": "Heidelberg, Germany",
+    "postal_code": "POCODE4864",
+    "property_types": [
+      "Apartment",
+      "House"
+    ],
+    "min_rooms": 5,
+    "min_size_sqm": 140,
+    "max_price_eur": 750000,
+    "crawled_at": "2026-05-10 21:58:05"
+  },
+  "Apartment": {
+    "search_url": "https://www.immowelt.de/classified-search?distributionTypes=Buy%2CBuy_Auction%2CCompulsory_Auction&estateTypes=Apartment&locations=POCODE4864&numberOfRoomsMin=5&priceMax=750000&spaceMin=140",
+    "success": true,
+    "pages_scraped": 1,
+    "property_count": 28,
+    "properties": [
+      {
+        "url": "https://www.immowelt.de/expose/26EK7FNSKQ75",
+        "title": "Ziegelhausen, Heidelberg (69118)",
+        "price": "495.000 €",
+        "rooms": "6 Zi.",
+        "size": "145 m²",
+        "location": "Ziegelhausen, Heidelberg (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25V35USKT284",
+        "title": "Handschuhsheim, Heidelberg (69121)",
+        "price": "600.000 €",
+        "rooms": "5 Zi.",
+        "size": "140 m²",
+        "location": "Handschuhsheim, Heidelberg (69121)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/23CT8EKKARBS",
+        "title": "Leimen (69181)",
+        "price": "457.000 €",
+        "rooms": "5 Zi.",
+        "size": "154 m²",
+        "location": "Leimen (69181)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26TTF15D5R6L",
+        "title": "Slevogtstraße 2, Wiesloch (69168)",
+        "price": "489.000 €",
+        "rooms": "5 Zi.",
+        "size": "140 m²",
+        "location": "Slevogtstraße 2, Wiesloch (69168)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26K8IYAIBHP3",
+        "title": "Wiesloch (69168)",
+        "price": "499.000 €",
+        "rooms": "8 Zi.",
+        "size": "245 m²",
+        "location": "Wiesloch (69168)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26J8IFDNXP1Z",
+        "title": "Wiesloch (69168)",
+        "price": "399.000 €",
+        "rooms": "6 Zi.",
+        "size": "258 m²",
+        "location": "Wiesloch (69168)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25FPTSYYT3Q2",
+        "title": "Schwetzingen (68723)",
+        "price": "640.000 €",
+        "rooms": "5 Zi.",
+        "size": "165 m²",
+        "location": "Schwetzingen (68723)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26Y9CQIPEU57",
+        "title": "Michelbach, Aglasterhausen / Michelbach (74858)",
+        "price": "277.000 €",
+        "rooms": "5 Zi.",
+        "size": "148 m²",
+        "location": "Michelbach, Aglasterhausen / Michelbach (74858)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26ZTPRQE2AM9",
+        "title": "Weinheim (69469)",
+        "price": "490.000 €",
+        "rooms": "5 Zi.",
+        "size": "213 m²",
+        "location": "Weinheim (69469)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25LTVDAT5BNU",
+        "title": "Eberbach (69412)",
+        "price": "415.000 €",
+        "rooms": "6 Zi.",
+        "size": "177,7 m²",
+        "location": "Eberbach (69412)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25WP54X6S75K",
+        "title": "Neckarau, Mannheim (68199)",
+        "price": "295.000 €",
+        "rooms": "5 Zi.",
+        "size": "177 m²",
+        "location": "Neckarau, Mannheim (68199)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26VI7DKKQW5J",
+        "title": "Hemsbach (69502)",
+        "price": "700.000 €",
+        "rooms": "7 Zi.",
+        "size": "361 m²",
+        "location": "Hemsbach (69502)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26XRLQXTV3CF",
+        "title": "Neckarstadt, Mannheim (68167)",
+        "price": "595.000 €",
+        "rooms": "5 Zi.",
+        "size": "156 m²",
+        "location": "Neckarstadt, Mannheim (68167)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26DGCBI19V6K",
+        "title": "Östringen (76684)",
+        "price": "337.000 €",
+        "rooms": "5 Zi.",
+        "size": "150 m²",
+        "location": "Östringen (76684)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/2699VWYDI2D6",
+        "title": "Waldkatzenbach, Waldbrunn (69429)",
+        "price": "240.000 €",
+        "rooms": "6 Zi.",
+        "size": "177 m²",
+        "location": "Waldkatzenbach, Waldbrunn (69429)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26TYD6NSCGV6",
+        "title": "Helmhof, Neckarbischofsheim / Helmhof (74924)",
+        "price": "349.000 €",
+        "rooms": "5 Zi.",
+        "size": "146,8 m²",
+        "location": "Helmhof, Neckarbischofsheim / Helmhof (74924)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26DM4C1KT58H",
+        "title": "Quadrate, Mannheim (68159)",
+        "price": "549.000 €",
+        "rooms": "6 Zi.",
+        "size": "143 m²",
+        "location": "Quadrate, Mannheim (68159)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25DP4ZUG65BI",
+        "title": "Mitte, Ludwigshafen am Rhein (67059)",
+        "price": "199.000 €",
+        "rooms": "7 Zi.",
+        "size": "175 m²",
+        "location": "Mitte, Ludwigshafen am Rhein (67059)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26BK99A9BYRJ",
+        "title": "Rheingönheim, Ludwigshafen am Rhein (67067)",
+        "price": "730.000 €",
+        "rooms": "5,5 Zi.",
+        "size": "236 m²",
+        "location": "Rheingönheim, Ludwigshafen am Rhein (67067)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25HWVY9FXQU6",
+        "title": "Speyer (67346)",
+        "price": "459.000 €",
+        "rooms": "5,5 Zi.",
+        "size": "161 m²",
+        "location": "Speyer (67346)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25VMC1JMS3B7",
+        "title": "Speyer (67346)",
+        "price": "695.000 €",
+        "rooms": "8 Zi.",
+        "size": "205 m²",
+        "location": "Speyer (67346)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/265JKH553MHT",
+        "title": "Zeutern, Ubstadt-Weiher / Zeutern (76698)",
+        "price": "499.000 €",
+        "rooms": "7 Zi.",
+        "size": "235 m²",
+        "location": "Zeutern, Ubstadt-Weiher / Zeutern (76698)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/255FPWVVNQGV",
+        "title": "Limburgerhof (67117)",
+        "price": "647.850 €",
+        "rooms": "5 Zi.",
+        "size": "154,3 m²",
+        "location": "Limburgerhof (67117)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/254U8RLXBVDD",
+        "title": "Wiesental, Waghäusel (68753)",
+        "price": "519.000 €",
+        "rooms": "6,5 Zi.",
+        "size": "205 m²",
+        "location": "Wiesental, Waghäusel (68753)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26NXT529Y4RP",
+        "title": "Schifferstadt (67105)",
+        "price": "499.000 €",
+        "rooms": "5 Zi.",
+        "size": "149 m²",
+        "location": "Schifferstadt (67105)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26WUHXRK5FLX",
+        "title": "Schifferstadt (67105)",
+        "price": "529.000 €",
+        "rooms": "5 Zi.",
+        "size": "178 m²",
+        "location": "Schifferstadt (67105)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/2622JFM42TEV",
+        "title": "Mutterstadt (67112)",
+        "price": "536.000 €",
+        "rooms": "10 Zi.",
+        "size": "248 m²",
+        "location": "Mutterstadt (67112)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25PAGXRFG4JQ",
+        "title": "Marktplatz 21, Philippsburg (76661)",
+        "price": "229.000 €",
+        "rooms": "5,5 Zi.",
+        "size": "145 m²",
+        "location": "Marktplatz 21, Philippsburg (76661)",
+        "image": ""
+      }
+    ]
+  },
+  "House": {
+    "search_url": "https://www.immowelt.de/classified-search?distributionTypes=Buy%2CBuy_Auction%2CCompulsory_Auction&estateTypes=House&locations=POCODE4864&numberOfRoomsMin=5&priceMax=750000&spaceMin=140",
+    "success": true,
+    "pages_scraped": 1,
+    "property_count": 40,
+    "properties": [
+      {
+        "url": "https://www.immowelt.de/expose/2359FRB7TJEX",
+        "title": "Ziegelhausen, Heidelberg (69118)",
+        "price": "599.000 €",
+        "rooms": "5 Zi.",
+        "size": "150 m²",
+        "location": "Ziegelhausen, Heidelberg (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/266L8BXFRR4V",
+        "title": "Ziegelhausen, Heidelberg (69118)",
+        "price": "695.000 €",
+        "rooms": "6 Zi.",
+        "size": "191 m²",
+        "location": "Ziegelhausen, Heidelberg (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25METEL7TP2I",
+        "title": "Ziegelhausen, Heidelberg / Ziegelhausen (69118)",
+        "price": "529.000 €",
+        "rooms": "10 Zi.",
+        "size": "205 m²",
+        "location": "Ziegelhausen, Heidelberg / Ziegelhausen (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/251DYT8WRRWL",
+        "title": "Ziegelhausen, Heidelberg - Ziegelhausen (69118)",
+        "price": "749.000 €",
+        "rooms": "6,5 Zi.",
+        "size": "154 m²",
+        "location": "Ziegelhausen, Heidelberg - Ziegelhausen (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/251UPGVCHPF1",
+        "title": "Ziegelhausen, Heidelberg (69118)",
+        "price": "459.000 €",
+        "rooms": "7 Zi.",
+        "size": "144 m²",
+        "location": "Ziegelhausen, Heidelberg (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25RH4PMTVNLW",
+        "title": "Ziegelhausen, Heidelberg (69118)",
+        "price": "610.900 €",
+        "rooms": "6 Zi.",
+        "size": "155 m²",
+        "location": "Ziegelhausen, Heidelberg (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26PEWLHQGKLL",
+        "title": "Ziegelhausen, Heidelberg (69118)",
+        "price": "595.000 €",
+        "rooms": "10 Zi.",
+        "size": "200 m²",
+        "location": "Ziegelhausen, Heidelberg (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/254SJMTTJMJZ",
+        "title": "Ziegelhausen, Heidelberg (69118)",
+        "price": "600.000 €",
+        "rooms": "11 Zi.",
+        "size": "271,6 m²",
+        "location": "Ziegelhausen, Heidelberg (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26QUS2ICKZ97",
+        "title": "Schlierbach, Heidelberg (69118)",
+        "price": "539.000 €",
+        "rooms": "6 Zi.",
+        "size": "183,9 m²",
+        "location": "Schlierbach, Heidelberg (69118)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26PS5K3SAIDY",
+        "title": "Neckargemünd (69151)",
+        "price": "725.299 €",
+        "rooms": "5 Zi.",
+        "size": "234,3 m²",
+        "location": "Neckargemünd (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26RJ3XRIGKDT",
+        "title": "Neckargemünd (69151)",
+        "price": "459.000 €",
+        "rooms": "5 Zi.",
+        "size": "168 m²",
+        "location": "Neckargemünd (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26N3IS7NW6FF",
+        "title": "Neckargemünd (69151)",
+        "price": "605.999 €",
+        "rooms": "5 Zi.",
+        "size": "146 m²",
+        "location": "Neckargemünd (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26ULQWWJJ8S4",
+        "title": "Neckargemünd (69151)",
+        "price": "725.299 €",
+        "rooms": "5 Zi.",
+        "size": "234,3 m²",
+        "location": "Neckargemünd (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26IL2G7B3H37",
+        "title": "Neckargemünd (69151)",
+        "price": "545.000 €",
+        "rooms": "5 Zi.",
+        "size": "173 m²",
+        "location": "Neckargemünd (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/267YNUEU79BP",
+        "title": "Neckargemünd (69151)",
+        "price": "334.000 €",
+        "rooms": "5 Zi.",
+        "size": "174 m²",
+        "location": "Neckargemünd (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26AGR5XT2JVV",
+        "title": "Neckargemünd (67151)",
+        "price": "260.000 €",
+        "rooms": "10 Zi.",
+        "size": "226 m²",
+        "location": "Neckargemünd (67151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25DNKKQHSSUK",
+        "title": "Krautgartenweg 3, Waldhilsbach, Neckargemünd-Waldhilsbach (69151)",
+        "price": "590.000 €",
+        "rooms": "7 Zi.",
+        "size": "248 m²",
+        "location": "Krautgartenweg 3, Waldhilsbach, Neckargemünd-Waldhilsbach (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26V8VP7N7W3B",
+        "title": "Neckargemünd (69151)",
+        "price": "605.999 €",
+        "rooms": "5 Zi.",
+        "size": "146 m²",
+        "location": "Neckargemünd (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25YHDLUEU3TA",
+        "title": "Neckargemünd (69151)",
+        "price": "498.000 €",
+        "rooms": "11 Zi.",
+        "size": "217 m²",
+        "location": "Neckargemünd (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26135RF22MEA",
+        "title": "Wilhelmsfeld (69259)",
+        "price": "680.000 €",
+        "rooms": "5 Zi.",
+        "size": "163 m²",
+        "location": "Wilhelmsfeld (69259)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26LVHACX1N2F",
+        "title": "Handschuhsheim, Heidelberg (69121)",
+        "price": "699.000 €",
+        "rooms": "5 Zi.",
+        "size": "180 m²",
+        "location": "Handschuhsheim, Heidelberg (69121)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26AHPF3ER584",
+        "title": "Wilhelmsfeld (69259)",
+        "price": "680.000 €",
+        "rooms": "5 Zi.",
+        "size": "163 m²",
+        "location": "Wilhelmsfeld (69259)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26CZ7NANE3LS",
+        "title": "Wilhelmsfeld (69259)",
+        "price": "542.900 €",
+        "rooms": "6 Zi.",
+        "size": "155 m²",
+        "location": "Wilhelmsfeld (69259)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26JTZRQ849IY",
+        "title": "Neckarsteinach (69239)",
+        "price": "579.000 €",
+        "rooms": "5 Zi.",
+        "size": "145 m²",
+        "location": "Neckarsteinach (69239)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26FJVTWX57BC",
+        "title": "Altneudorf, Schönau (69250)",
+        "price": "325.000 €",
+        "rooms": "6 Zi.",
+        "size": "160 m²",
+        "location": "Altneudorf, Schönau (69250)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26SGBZ56HU8V",
+        "title": "Neckarsteinach (69239)",
+        "price": "685.000 €",
+        "rooms": "10 Zi.",
+        "size": "226 m²",
+        "location": "Neckarsteinach (69239)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26X4VSVTSURS",
+        "title": "Neckarsteinach (69239)",
+        "price": "685.000 €",
+        "rooms": "10 Zi.",
+        "size": "226 m²",
+        "location": "Neckarsteinach (69239)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26W9TQQ741ZD",
+        "title": "Wilhelmsfeld (69259)",
+        "price": "355.000 €",
+        "rooms": "5,5 Zi.",
+        "size": "179 m²",
+        "location": "Wilhelmsfeld (69259)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26TRFDG5D8GS",
+        "title": "Wiesenbach (69257)",
+        "price": "695.000 €",
+        "rooms": "8 Zi.",
+        "size": "250 m²",
+        "location": "Wiesenbach (69257)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25HP333GZTPB",
+        "title": "Goethestraße 9, Wiesenbach (69257)",
+        "price": "499.000 €",
+        "rooms": "5 Zi.",
+        "size": "177 m²",
+        "location": "Goethestraße 9, Wiesenbach (69257)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25YCGVMM9E64",
+        "title": "Köhlerwaldweg 40, Wilhelmsfeld (69259)",
+        "price": "445.000 €",
+        "rooms": "7 Zi.",
+        "size": "235,4 m²",
+        "location": "Köhlerwaldweg 40, Wilhelmsfeld (69259)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25A1VSF7V5B3",
+        "title": "Dossenheim (69221)",
+        "price": "669.000 €",
+        "rooms": "7,5 Zi.",
+        "size": "166 m²",
+        "location": "Dossenheim (69221)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/264XIH5BGB29",
+        "title": "Wilhelmsfeld (69259)",
+        "price": "680.000 €",
+        "rooms": "5 Zi.",
+        "size": "163 m²",
+        "location": "Wilhelmsfeld (69259)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/2648BJB99XCS",
+        "title": "Emmertsgrund, Heidelberg / Emmertsgrund (69126)",
+        "price": "480.000 €",
+        "rooms": "6 Zi.",
+        "size": "186 m²",
+        "location": "Emmertsgrund, Heidelberg / Emmertsgrund (69126)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26A77VSVMKRV",
+        "title": "Wilhelmsfeld (69259)",
+        "price": "280.000 €",
+        "rooms": "6 Zi.",
+        "size": "196 m²",
+        "location": "Wilhelmsfeld (69259)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25DQZGPGDVCK",
+        "title": "Bammental (69245)",
+        "price": "595.000 €",
+        "rooms": "9 Zi.",
+        "size": "267,5 m²",
+        "location": "Bammental (69245)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26B3H3IL3TXD",
+        "title": "Wiesenbach (69257)",
+        "price": "500.000 €",
+        "rooms": "8 Zi.",
+        "size": "223 m²",
+        "location": "Wiesenbach (69257)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/25X8CBQKZK3Y",
+        "title": "Boxberg, Heidelberg (69126)",
+        "price": "385.000 €",
+        "rooms": "6 Zi.",
+        "size": "148 m²",
+        "location": "Boxberg, Heidelberg (69126)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26N3PMDHMUQR",
+        "title": "Mückenloch, Neckargemünd (69151)",
+        "price": "420.000 €",
+        "rooms": "5,5 Zi.",
+        "size": "167 m²",
+        "location": "Mückenloch, Neckargemünd (69151)",
+        "image": ""
+      },
+      {
+        "url": "https://www.immowelt.de/expose/26UMSV5MGGJC",
+        "title": "Emmertsgrund, Heidelberg (69126)",
+        "price": "445.000 €",
+        "rooms": "6 Zi.",
+        "size": "170 m²",
+        "location": "Emmertsgrund, Heidelberg (69126)",
+        "image": ""
+      }
+    ]
+  }
+}
